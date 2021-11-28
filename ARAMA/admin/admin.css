@@ -1,0 +1,37 @@
+*{
+	margin:
+	padding:
+}
+body{
+	background-color:pink;
+}
+.content{
+	margin: 0 auto;
+	padding-top:120px;
+	padding-left:300px;
+	width:750px; 
+	
+}
+#baslik{
+	width: 400px;
+	height: 30px;
+	padding-left:48px;
+}
+#url{
+	width: 400px;
+	height: 30px;
+	padding-left:48px;
+}
+#desc{
+	width: 4700px;
+	height: 100px;
+	
+}
+#submit{
+	width:88px;
+	height:32px;
+	background-color:weight;
+    border:none;
+    cursor:pointer;
+
+}
